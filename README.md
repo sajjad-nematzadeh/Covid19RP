@@ -1,4 +1,4 @@
-# Covid19RP
+# High-Throughput Analysis of the Interactions between Viral Proteins and Host Cell RNAs 
 
 * Supplementary File 1: Frequency of RNAs binding to the proteins of SARS-CoV-2
 * Supplementary File 2: Prediction score matrix of RNAs involved in complexes with proteins of SARS-CoV-2

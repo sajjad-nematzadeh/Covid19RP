@@ -1,3 +1,5 @@
+# High-Throughput Analysis of the Interactions between Viral Proteins and Host Cell RNAs 
+
 # doi:
 http://dx.doi.org/10.1016/j.compbiomed.2021.104611
 
@@ -13,7 +15,7 @@ RNA-protein interactions of a virus play a major role in the replication of RNA 
 * NSP3 hyper-mutation rate has an effective role in the evolution of covid-19.
 * NSP3 hyper-affinity to RNAs has an effective role in covid-19 pathogenicity.
 
-# High-Throughput Analysis of the Interactions between Viral Proteins and Host Cell RNAs 
+# Supplementary Files
 * Supplementary File 1: Frequency of RNAs binding to the proteins of SARS-CoV-2
 * Supplementary File 2: Prediction score matrix of RNAs involved in complexes with proteins of SARS-CoV-2
 * Supplementary File 3: Prediction score matrix of miRNAs with proteins of SARS-CoV-2
